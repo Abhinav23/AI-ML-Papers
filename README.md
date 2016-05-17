@@ -1,4 +1,4 @@
-# Ai_Papers
+# Curated List of Artifical Intelligence Papers
 This is a catalog for the foundations and emergence of AI research. Understanding the historic development of computational logic from primary sources is useful in gaining insight on the current state of AI. 
 
 ###Topics Covered:
